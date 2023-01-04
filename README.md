@@ -13,4 +13,3 @@ Design and implementation of the videogame Frogger. Player must reach the other 
 Image of the game the game:
 
 ![Screen Shot 2021-12-23 at 5 39 14 PM](https://user-images.githubusercontent.com/89400862/147297828-ad099ce8-2eff-4f8b-9ebf-a8e40f18e720.png)
-![image](https://user-images.githubusercontent.com/89400862/210665456-3972737d-ac8c-4bc1-8373-a433da9cc0b7.png)
